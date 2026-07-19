@@ -4,8 +4,6 @@ class Solution {
     public int firstUniqChar(String s) {
         if(s.length()==1){
             return 0;
-        }else if(s.length()<0){
-            return -1;
         }
         Map<Character,Integer> once=new HashMap<>();
         for(int i=0;i<s.length();i++){
