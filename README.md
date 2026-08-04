@@ -92,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/psmahale/DSA_WITH_SPEED_ACCURACY/tree/master/0011-container-with-most-water) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/psmahale/DSA_WITH_SPEED_ACCURACY/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
