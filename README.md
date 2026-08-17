@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/psmahale/DSA_WITH_SPEED_ACCURACY/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/psmahale/DSA_WITH_SPEED_ACCURACY/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/psmahale/DSA_WITH_SPEED_ACCURACY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/psmahale/DSA_WITH_SPEED_ACCURACY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/psmahale/DSA_WITH_SPEED_ACCURACY/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/psmahale/DSA_WITH_SPEED_ACCURACY/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/psmahale/DSA_WITH_SPEED_ACCURACY/tree/master/0184-department-highest-salary) |
 | [0596-classes-with-at-least-5-students](https://github.com/psmahale/DSA_WITH_SPEED_ACCURACY/tree/master/0596-classes-with-at-least-5-students) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/psmahale/DSA_WITH_SPEED_ACCURACY/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
