@@ -2,9 +2,6 @@ class Solution {
     public int maxSubArray(int[] nums) {
         int sum=0;
         int max=nums[0];
-        int length=nums.length;
-        int left=0;
-        int right=0;
 
         if(nums.length==1){
             return nums[0];
